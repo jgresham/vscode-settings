@@ -8,6 +8,7 @@ my personal vscode settings ~ don't worry I use tabs not spaces :)
     "workbench.colorTheme": "Monokai",
     "editor.minimap.enabled": false,
     "editor.hideCursorInOverviewRuler": true,
+    "editor.insertSpaces": false,
     "editor.tabSize": 2,
     "editor.detectIndentation": false
 }
