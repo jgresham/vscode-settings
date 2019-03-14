@@ -1,5 +1,5 @@
 # vscode-settings
-my personal vscode settings ~ don't worry I use tabs not spaces :)
+my personal vscode settings inspired by Dan Abramov @dan_abramov
 
 ```json
 {
