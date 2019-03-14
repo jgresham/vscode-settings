@@ -27,5 +27,5 @@ my personal vscode settings ~ don't worry I use tabs not spaces :)
     "workbench.iconTheme": null,
     "workbench.editor.showIcons": false,
     "workbench.statusBar.visible": false,
-	}
+}
 ```
