@@ -27,5 +27,6 @@ my personal vscode settings inspired by Dan Abramov @dan_abramov
     "workbench.iconTheme": null,
     "workbench.editor.showIcons": false,
     "workbench.statusBar.visible": false,
+    "editor.detectIndentation": true
 }
 ```
